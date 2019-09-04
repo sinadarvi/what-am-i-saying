@@ -2,6 +2,8 @@
 
 The project is designed to show that you can implement js libraries in your Kotlin-React project
 
+youtube : https://www.youtube.com/playlist?list=PLT2xIm2X7W7h3GNbKSVZM24NEx59wmWHP
+
 <div style="display: flex;">
 	<img src="./art/what-am-i-saying.png" />  
 </div>
